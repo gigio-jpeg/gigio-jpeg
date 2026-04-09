@@ -13,7 +13,7 @@ I am interested in data, artificial intelligence, and developing solutions to re
 ## 🛠️ Skills and Tools
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=docker,figma,git,github,idea,js,linux,lua,mongodb,mysql,nextjs,nodejs,npm,postgres,pycharm,py,react,robloxstudio,vscode&perline=16" />
+  <img src="https://skillicons.dev/icons?i=docker,figma,git,github,idea,js,linux,lua,mongodb,mysql,nextjs,nodejs,npm,postgres,pycharm,py,react,robloxstudio,vscode&perline=17" />
 </p>
 
 ---
