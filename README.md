@@ -1,9 +1,5 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&pause=1000&color=63F73F&center=true&vCenter=true&width=435&lines=Bem+vindo(a)+ao+meu+github!)](https://git.io/typing-svg)
 
-<div>
-  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=header&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&rotate=0&stroke=-&descSize=20&descAlign=50&descAlignY=50&textBg=false&theme=onedark"  />
-</div>
-
 ## 🚀 About Me
 
 I am a Systems Development Technician focused on data and technology. I have experience with Python and SQL, and have also studied PL/SQL and the Lua programming language. I have developed projects using React and Node.js.
@@ -32,3 +28,11 @@ I am interested in data, artificial intelligence, and developing solutions to re
     <img src="https://skillicons.dev/icons?i=linkedin" />
   </a>
 </p>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/gigio-jpeg/gigio-jpeg/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/gigio-jpeg/gigio-jpeg/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/gigio-jpeg/gigio-jpeg/output/pacman-contribution-graph.svg">
+</picture>
+
+###
