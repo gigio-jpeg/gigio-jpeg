@@ -29,4 +29,4 @@ I am interested in data, artificial intelligence, and developing solutions to re
   </a>
 </p>
 
-<img src="https://raw.githubusercontent.com/gigio-jpeg/gigio-jpeg/output/snake.svg" alt="Snake animation" />
+<img src="https://user-images.githubusercontent.com/127353307/223878413-7bc60a8c-b971-43b9-af84-43aeee49f0eb.svg"/>
