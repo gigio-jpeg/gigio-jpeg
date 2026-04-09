@@ -12,7 +12,7 @@ I am interested in data, artificial intelligence, and developing solutions to re
 
 ## 🛠️ Skills and Tools
 
-<p align="center">
+<p>
   <img src="https://skillicons.dev/icons?i=docker,figma,git,github,idea,js,linux,lua,mongodb,mysql,nextjs,nodejs,npm,postgres,pycharm,py,react,robloxstudio,vscode&perline=14" />
 </p>
 
@@ -20,7 +20,7 @@ I am interested in data, artificial intelligence, and developing solutions to re
 
 ## 📫 Contact Me
 
-<p align="center">
+<p>
   <a href="mailto:giovanni.pscorrea@gmail.com">
     <img src="https://skillicons.dev/icons?i=gmail" />
   </a>
