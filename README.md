@@ -1,3 +1,5 @@
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&pause=1000&color=63F73F&center=true&vCenter=true&width=435&lines=Bem+vindo(a)+ao+meu+github!)](https://git.io/typing-svg)
+
 ## 🚀 About Me
 
 I am a Systems Development Technician focused on data and technology. I have experience with Python and SQL, and have also studied PL/SQL and the Lua programming language. I have developed projects using React and Node.js.
