@@ -28,5 +28,3 @@ I am interested in data, artificial intelligence, and developing solutions to re
     <img src="https://skillicons.dev/icons?i=linkedin" />
   </a>
 </p>
-
-<img src="https://wdev2021.github.io/Pac-man/"/>
